@@ -38,6 +38,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikaT26&theme=tokyonight" />
 </p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RitikaT26&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RitikaT26&theme=tokyonight" />
+</p>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 ---
 
