@@ -27,6 +27,9 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RitikaT26&show_icons=true&theme=tokyonight&include_all_commits=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaT26&layout=compact&theme=tokyonight" />
