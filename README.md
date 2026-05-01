@@ -1,6 +1,7 @@
 <!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Ritika+Talwar;Software+Developer;Open+Source+Enthusiast;AI+%7C+Web+%7C+App+Developer;Always+Learning+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ritika%20Talwar&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,30&animation=fadeIn&fontSize=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=800&color=7F5AF0&lines=Software+Developer;AI+Engineer;Full+Stack+Developer;Open+Source+Contributor" />
 </p>
 
 <p align="center">
@@ -37,20 +38,21 @@
 
 ---
 
+
 ## 📌 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/RitikaT26/PrepMeUp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RitikaT26&repo=PrepMeUp&theme=tokyonight" />
+<a href="https://github.com/RitikaT26/prepmeup">
+  <img src="https://img.shields.io/badge/PrepMeUp-View%20Project-blue?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/RitikaT26/FlowQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RitikaT26&repo=FlowQ&theme=tokyonight" />
+<a href="https://github.com/RitikaT26/flowq">
+  <img src="https://img.shields.io/badge/FlowQ-View%20Project-green?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/RitikaT26/Kavach">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RitikaT26&repo=Kavach&theme=tokyonight" />
+<a href="https://github.com/RitikaT26/kavach">
+  <img src="https://img.shields.io/badge/Kavach-View%20Project-red?style=for-the-badge&logo=github" />
 </a>
 
 </p>
@@ -94,7 +96,7 @@
 </p>
 
 ---
-
 <p align="center">
-  🚀 “Build. Break. Learn. Repeat.”
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&color=4F9CF9&lines=Build.+Break.+Learn.+Repeat." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=gradient&customColorList=12,20,24,30&animation=fadeIn" />
 </p>
