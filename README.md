@@ -1,6 +1,6 @@
 <!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ritika%20Talwar&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,30&animation=fadeIn&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ritika%20Talwar&fontAlign=50&fontAlignY=40&color=0:4F9CF9,100:1E3A8A&fontColor=ffffff&animation=fadeIn&fontSize=50" />
   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=800&color=7F5AF0&lines=Software+Developer;AI+Engineer;Full+Stack+Developer;Open+Source+Contributor" />
 </p>
 
@@ -27,8 +27,8 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitikaT26&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaT26&layout=compact&theme=tokyonight" />
 </p>
 
@@ -98,5 +98,8 @@
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&color=4F9CF9&lines=Build.+Break.+Learn.+Repeat." />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=gradient&customColorList=12,20,24,30&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=0:4F9CF9,100:1E3A8A&animation=fadeIn" />
 </p>
