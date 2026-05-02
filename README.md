@@ -78,10 +78,8 @@
 ---
 
 ## 🤖 AI Chatbot Project
-<p align="center">
-  Built an AI-powered chatbot with:
-</p>
 
+  Built an AI-powered chatbot with:
 - 💬 Natural conversation handling  
 - 🧠 Gemini API integration  
 - 🎙️ Voice input support  
